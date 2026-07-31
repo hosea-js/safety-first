@@ -1,5 +1,5 @@
 # 🛡️ Safety First!
-![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
+![Node.js](https://img.shields.io/badge/Node.js-26.x-green)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
