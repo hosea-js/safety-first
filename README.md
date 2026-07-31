@@ -29,9 +29,6 @@ Earthquake data is provided by the **Indonesian Agency for Meteorology, Climatol
 ---
 
 🇮🇩 Bahasa Indonesia
-![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
-![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
-![License](https://img.shields.io/badge/license-MIT-yellow)
 
 Safety First! adalah proyek publik pertama dari **26January Developer** yang berfokus pada peningkatan keamanan dan kesadaran pengguna Discord.
 
