@@ -10,7 +10,7 @@ const client = new Client({
 })
 
 client.once(`clientReady`, () => {
-    console.log(`Succesfully logged as ${client.user.tag}`)
+    console.log(`Succesfully logged as ${client.user.tag} from index.js`)
 })
 
 // Command Collection
