@@ -1,41 +1,55 @@
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 EN
 # 🛡️ Safety First!
+![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
+![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-This bot are the first public project that focused on your safety while having your time in Discord. While the main purpose are ensure your safety while using Discord, we also provide some additonal safety feature.
+🇬🇧 English
 
-## Features That been released:
+Safety First! is the first public project by 26January Developer focused on improving safety and awareness for Discord users.
 
-- 🌏 Earthquake Latest Information Get using commands
+While the main purpose of this bot is to provide earthquake information and alerts, it will continue to expand with additional safety and utility features.
 
-## Features will be coming soon:
+## ✨ Current Features
 
-- ⚠️ Earthquake Alert
-- 🌧️ Weather Command
-- 🪛 Server Utilites
+- 🌏 Latest earthquake information using slash commands
+
+## 🚧 Planned Features
+
+- ⚠️ Earthquake alerts
+- 🌧️ Weather commands
+- 🪛 Server utilities
 - 🚧 And more!
 
-## Notice
+## 📄 Notice
 
-This repository are the official repository for 26January Developer Discord Bot,
-All data provided here are from Indonesian Agency for Meteorology, Climatology, and Geophysical Public Data API.
+This is the official repository for the **Safety First!** Discord Bot by **26January Developer**.
 
-#
-🇮🇩 ID
-# Safety First!
+Earthquake data is provided by the **Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)** through its Public Data API.
 
-Bot ini adalah projek publik pertama yang berfokus dalam keamanan Anda disaat berada di Discord. Walau tujuan utama kami adalah memastikan kemanan Anda selama menggunakan Discord, kami juga memiliki beberapa fitur keamanan tambahan.
+---
 
-## Fitur yang sudah dirilis:
+🇮🇩 Bahasa Indonesia
+![Node.js](https://img.shields.io/badge/Node.js-22.x-green)
+![Discord.js](https://img.shields.io/badge/discord.js-v14-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-- 🌏 Informasi Terkini Gempa Bumi melalui command
+Safety First! adalah proyek publik pertama dari **26January Developer** yang berfokus pada peningkatan keamanan dan kesadaran pengguna Discord.
 
-## Fitur yang akan datang:
+Walaupun tujuan utama bot ini adalah menyediakan informasi dan peringatan gempa bumi, ke depannya bot ini juga akan menghadirkan berbagai fitur keamanan dan utilitas lainnya.
 
-- ⚠️ Peringatan Gempa
-- 🌧️ Command Cuaca
-- 🪛 Peralatan Server
+## ✨ Fitur Saat Ini
+
+- 🌏 Informasi gempa bumi terkini melalui slash command
+
+## 🚧 Fitur yang Akan Datang
+
+- ⚠️ Peringatan gempa bumi
+- 🌧️ Perintah cuaca
+- 🪛 Utilitas server
 - 🚧 Dan masih banyak lagi!
-  
-## Catatan
-Repository ini adalah repo untuk Discord bot official 26January Developer,
-Semua data disini diberikan oleh Badan Meteorologi, Klimatologi, dan Geofisika Indonesia API Data Publik.
+
+## 📄 Catatan
+
+Repository ini merupakan repository resmi **Safety First!** Discord Bot oleh **26January Developer**.
+
+Seluruh data gempa bumi diperoleh dari **API Data Publik Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)**.
